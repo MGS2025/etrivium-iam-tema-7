@@ -1,8 +1,8 @@
 # Tema 7 — Checklist de Validación
 
 > **Título oficial**: Ley 39/2015 (LPACAP): el procedimiento administrativo y los recursos administrativos. Concepto, naturaleza y principios generales. Fases del procedimiento. Los recursos administrativos: concepto y clases.
-> **Versión**: 1.0 — Pendiente de validación
-> **Fecha**: 2026-06-25
+> **Versión**: 1.2 — Revisión jurídica
+> **Fecha**: 2026-10-01
 > **Revisoras**: María + Ana (IAM)
 
 ---
@@ -18,7 +18,6 @@
 ## 1. Fuentes y trazabilidad
 
 - [ ] La fuente nuclear es la **Ley 39/2015 (LPACAP)** en su versión consolidada.
-- [ ] No se ha aportado material de cliente más allá del índice (`TEMA_07.docx`); el contenido se ha desarrollado desde el texto oficial del BOE.
 - [ ] Cada afirmación que reproduce el articulado está referenciada con `[LPACAP, art. X]`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo de la Ley 39/2015, de la Ley 40/2015 o de la Constitución.
 
@@ -26,10 +25,10 @@
 
 - [ ] El `tema-7-indice.md` refleja fielmente la estructura de `tema-7-contenido.md`.
 - [ ] Las secciones cubren: contexto/estructura de la Ley, concepto y naturaleza, principios, las cuatro fases (iniciación, ordenación, instrucción, terminación), el silencio, el acto administrativo (validez, eficacia, nulidad/anulabilidad), los tres recursos y la revisión de oficio.
-- [ ] Los conceptos memorizables aparecen como `[DATO CLAVE EXAMEN]`.
+- [ ] Los conceptos memorizables aparecen como `[DATO CLAVE]`.
 - [ ] Las reproducciones del articulado aparecen como `[CITA NORMATIVA]`.
-- [ ] Los ejemplos del Ayto de Madrid / IAM están marcados como `[EJEMPLO AYTO MADRID]`.
-- [ ] Los enlaces a otros temas se marcan como `[REFERENCIA CRUZADA]`.
+- [ ] Los ejemplos del Ayto de Madrid / IAM están marcados como `[EJEMPLO DE APLICACIÓN EN EL AYTO]`.
+- [ ] Los enlaces a otros temas se marcan como `[RELACIÓN CON OTROS TEMAS]`.
 
 ## 3. Rigor jurídico (datos sensibles)
 
@@ -38,14 +37,14 @@
 - [ ] Subsanación de solicitudes: **10 días (+5)**; efecto: desistimiento [art. 68].
 - [ ] Informes: regla general **facultativos y no vinculantes** [art. 80].
 - [ ] Audiencia **10-15 días** [art. 82]; información pública **≥ 20 días** [art. 83]; prueba **10-30 días** [art. 77].
-- [ ] Silencio a solicitud: regla **positivo**, con las cinco excepciones del art. 24.1; **doble silencio** en alzada → estimatorio.
+- [ ] Silencio a solicitud: regla **positivo**, con las cinco excepciones del artículo 24.1; **doble silencio** en alzada → estimatorio.
 - [ ] Silencio de oficio: favorable **negativo**; desfavorable/sancionador **caducidad** [art. 25].
-- [ ] Nulidad de pleno derecho: supuestos tasados del **art. 47** (incompetencia manifiesta por materia/territorio, contenido imposible, prescindir total del procedimiento…).
+- [ ] Nulidad de pleno derecho: supuestos tasados del **artículo 47** (incompetencia manifiesta por materia/territorio, contenido imposible, prescindir total del procedimiento…).
 - [ ] Anulabilidad: cualquier infracción del ordenamiento, incluida la **desviación de poder** [art. 48]; defecto de forma solo anula si impide el fin o causa indefensión.
 - [ ] Recurso de **alzada**: actos que no agotan la vía, superior jerárquico, **obligatorio**, interposición 1 mes (expreso), resolución **3 meses** [arts. 121-122].
 - [ ] Recurso de **reposición**: actos que agotan la vía, mismo órgano, **potestativo**, interposición 1 mes (expreso), resolución **1 mes** [arts. 123-124].
-- [ ] Recurso **extraordinario de revisión**: actos firmes, **cuatro causas tasadas**, plazo **4 años** (error de hecho) / **3 meses** (resto) [art. 125].
-- [ ] Revisión de oficio de actos nulos: **art. 106** (sin plazo, dictamen favorable del órgano consultivo); declaración de lesividad de anulables: **art. 107** (4 años + contencioso).
+- [ ] Recurso **extraordinario de revisión**: actos firmes, **cuatro causas tasadas**, plazo **4 años** (error de hecho) / **3 meses** (resto) [art. 125]; resolución **3 meses** [art. 126.3].
+- [ ] Revisión de oficio de actos nulos: **artículo 106** (en cualquier momento, dictamen favorable del órgano consultivo); declaración de lesividad de anulables: **artículo 107** (4 años desde que se dictó el acto + contencioso).
 
 ## 4. Diagramas SVG
 
@@ -93,14 +92,11 @@
 
 ### Decisiones conscientes que conviene confirmar (Jesús)
 
-1. **⚠️ Dos erratas detectadas en el índice del cliente (`TEMA_07.docx`)**. El esqueleto indica:
-   - Para el recurso de **alzada**: *"plazo (1 mes si expreso / 3 meses si silencio)"*.
-   - Para el recurso de **reposición**: *"plazo (1 mes si expreso / 1 mes si silencio negativo)"*.
-   Ambos plazos de "silencio" corresponden a la **derogada Ley 30/1992**. La **Ley 39/2015 vigente** (arts. 122.1 y 124.1) establece que, cuando el acto es **presunto**, el recurso puede interponerse **en cualquier momento** a partir del día siguiente a aquel en que se produzcan los efectos del silencio. **El contenido se ha redactado conforme a la ley vigente.** → Confirmar que se mantiene el criterio de la ley vigente (recomendado) y, si se desea, añadir una nota didáctica al margen sobre el cambio respecto de la Ley 30/1992.
+1. **Plazos de interposición contra actos presuntos**. Conforme a la **Ley 39/2015 vigente** (arts. 122.1 y 124.1), cuando el acto no es expreso, los recursos de alzada y de reposición pueden interponerse **en cualquier momento** a partir del día siguiente a aquel en que se produzcan los efectos del silencio (alzada) o el acto presunto (reposición). Los plazos de «3 meses» y «1 mes» para el silencio procedían de la derogada Ley 30/1992. → Confirmar este criterio.
 
-2. **Alcance del tema**. El enunciado oficial se ciñe al procedimiento y los recursos, pero se ha incluido —por coherencia pedagógica y porque es materia recurrente en el test— una sección sobre el **acto administrativo** (validez, eficacia, notificación y, sobre todo, **nulidad/anulabilidad**, arts. 47-48) y otra sobre la **revisión de oficio** (arts. 106-111), que el índice del cliente sí contempla. → Confirmar que la profundidad de estas dos secciones es la adecuada para C1.
+2. **Alcance del tema**. El enunciado oficial se ciñe al procedimiento y los recursos, pero se ha incluido —por coherencia pedagógica— una sección sobre el **acto administrativo** (validez, eficacia, notificación y, sobre todo, **nulidad/anulabilidad**, arts. 47-48) y otra sobre la **revisión de oficio** (arts. 106-111). → Confirmar que la profundidad de estas dos secciones es la adecuada para C1.
 
-3. **Frontera con el Tema 6**. Los **interesados** (arts. 3-12), los **derechos** (art. 13) y los **registros** (arts. 16-17) se tratan en el Tema 6; aquí solo se citan como presupuesto. Los **términos y plazos** (arts. 29-33), aunque sistemáticamente están en el Título II, se han desarrollado en este Tema 7 por ser la "regla del cronómetro" de las fases. → Confirmar este reparto.
+3. **Frontera con el Tema 6**. Los **interesados** (arts. 3-12), los **derechos** (art. 13) y los **registros** (arts. 16-17) se tratan en el Tema 6; aquí solo se citan como presupuesto. Los **términos y plazos** (arts. 29-33), aunque sistemáticamente están en el Título II, se han desarrollado en este Tema 7 porque rigen el cómputo de los plazos de todas las fases. → Confirmar este reparto.
 
 4. **150 preguntas + 20 pedagógicas + 6 casos + 12 diagramas + 8 pestañas (con pestaña Índice)**, replicando el formato de los Temas 1-5.
 
@@ -109,7 +105,7 @@
 ### Puntos a vigilar (datos volátiles)
 
 - El **sentido del silencio** en muchos procedimientos concretos del Ayuntamiento de Madrid (licencias, autorizaciones de dominio público) depende de la **ley sectorial** aplicable; los ejemplos del tema señalan la regla general y la excepción, pero conviene reverificar la norma sectorial concreta antes de cada convocatoria.
-- La determinación de **qué órganos del Ayuntamiento de Madrid agotan la vía administrativa** (Alcalde, Junta de Gobierno, Pleno, órganos de los distritos) se rige por la **Ley 22/2006 de Capitalidad** y la **DA 15.ª LBRL**; los ejemplos del tema son orientativos.
+- La determinación de **qué órganos del Ayuntamiento de Madrid agotan la vía administrativa** (Alcalde, Junta de Gobierno, Pleno, órganos de los distritos) se rige por el **artículo 52.2 LBRL** y el **artículo 53 de la Ley 22/2006 de Capitalidad**; los ejemplos del tema son orientativos.
 
 ---
 

@@ -4,8 +4,8 @@
 >
 > **Bloque**: Parte I — Administrativo/Jurídico
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente de validación
-> **Fecha**: 2026-06-25
+> **Versión**: 1.2 — Revisión jurídica
+> **Fecha**: 2026-10-01
 
 ---
 
@@ -26,17 +26,17 @@
 
 ## Conceptos clave por sección
 
-### Datos memorísticos de alto valor (DATO CLAVE EXAMEN)
+### Datos memorísticos de alto valor (Dato clave)
 
 | Concepto | Dato | Artículo |
 |---|---|---|
 | Norma reguladora | LPACAP = **Ley 39/2015, de 1 de octubre** | Encabezamiento |
-| Plazo subsidiario para resolver | **3 meses** si la norma no fija otro | Art. 21.2-3 |
-| Cómputo de plazos por días | Días **hábiles**: se excluyen sábados, domingos y festivos | Art. 30.1-2 |
-| Cómputo por meses/años | De **fecha a fecha** | Art. 30.4 |
+| Plazo subsidiario para resolver | **3 meses** si la norma no fija otro | Art. 21.3 |
+| Cómputo de plazos por días | Días **hábiles**: se excluyen sábados, domingos y festivos | Art. 30.2 |
+| Cómputo por meses/años | Concluye el **mismo día** de la notificación o publicación en el mes o año de vencimiento | Art. 30.4 |
 | Inicio del procedimiento | De **oficio** o a **solicitud** del interesado | Art. 54 |
 | Iniciación de oficio (modalidades) | Propia iniciativa, orden superior, **petición razonada** de otro órgano, **denuncia** | Art. 58 |
-| Plazo de subsanación de solicitudes | **10 días** (ampliable hasta 5 más) | Art. 68.1 |
+| Plazo de subsanación de solicitudes | **10 días** (ampliable hasta 5 más) | Art. 68.1-2 |
 | Informes (regla general) | **Facultativos** y **no vinculantes**, salvo disposición en contrario | Art. 80.1 |
 | Trámite de audiencia | Plazo de **10 a 15 días** | Art. 82.2 |
 | Información pública | Plazo **no inferior a 20 días** | Art. 83.2 |
@@ -51,7 +51,7 @@
 | Recurso extraordinario de revisión — plazo | **4 años** (error de hecho) o **3 meses** (resto de causas) | Art. 125.2 |
 | Plazo de resolución de los recursos | Alzada **3 meses** · Reposición **1 mes** · Revisión **3 meses** | Arts. 122, 124, 126 |
 | Revisión de oficio de actos nulos | **De oficio** (o a instancia), previo dictamen favorable del órgano consultivo | Art. 106 |
-| Declaración de lesividad (actos anulables) | Plazo **4 años** desde la notificación + recurso contencioso | Art. 107 |
+| Declaración de lesividad (actos anulables) | Plazo **4 años** desde que se dictó el acto + recurso contencioso | Art. 107 |
 
 ### Tabla comparativa — Los tres recursos administrativos
 
@@ -68,8 +68,8 @@
 
 ## Dependencias con otros temas
 
-- **Tema 1**: La Constitución — fundamento del procedimiento en el art. 105 CE (audiencia, acceso a archivos); objetividad y eficacia (art. 103 CE); control judicial (art. 106 CE) y seguridad jurídica (art. 9.3 CE). [REFERENCIA CRUZADA]
-- **Tema 2**: La Administración Local — la determinación del **órgano competente** y de qué actos ponen fin a la vía administrativa en el ámbito local (art. 114.1.c LPACAP y disposición adicional 15.ª LBRL).
+- **Tema 1**: La Constitución — fundamento del procedimiento en el artículo 105 CE (audiencia, acceso a archivos); objetividad y eficacia (art. 103 CE); control judicial (art. 106 CE) y seguridad jurídica (art. 9.3 CE).
+- **Tema 2**: La Administración Local — la determinación del **órgano competente** y de qué actos ponen fin a la vía administrativa en el ámbito local (art. 114.1.c LPACAP, art. 52.2 LBRL y art. 53 de la Ley 22/2006).
 - **Tema 6**: La parte de la LPACAP relativa a los **interesados** (arts. 3-12), los **derechos** (art. 13) y los **registros** (arts. 16-17) es el presupuesto de este Tema 7, que regula cómo se tramita el procedimiento de esos interesados.
 - **Tema 5**: El **régimen disciplinario** del TREBEP es un **procedimiento administrativo especial** (sancionador) que sigue las garantías de la LPACAP.
 - **Tema 8**: La **ejecutividad** de los actos y el **procedimiento de apremio** sobre el patrimonio se proyectan sobre la recaudación de los ingresos de derecho público de las Haciendas Locales.
@@ -80,8 +80,8 @@
 
 1. **Concepto y principios** (secciones 2-3) — entender qué es el procedimiento, su fundamento constitucional (art. 105 CE) y los principios de ordenación e instrucción.
 2. **Las fases** (secciones 4-5) — el eje del tema: iniciación → ordenación → instrucción → terminación. Memorizar plazos (subsanación 10 días, audiencia 10-15, información pública ≥20).
-3. **El silencio administrativo** (sección 5) — distinguir el silencio a solicitud del interesado (positivo como regla) del silencio de oficio (negativo o caducidad). Es de los temas más preguntados.
+3. **El silencio administrativo** (sección 5) — distinguir el silencio a solicitud del interesado (positivo como regla) del silencio de oficio (negativo o caducidad).
 4. **El acto administrativo** (sección 6) — validez, eficacia, notificación y, sobre todo, **nulidad (art. 47) vs anulabilidad (art. 48)**.
-5. **Los recursos** (sección 7) — dominar el **cuadro comparativo** de los tres recursos (objeto, órgano, plazo, silencio). Es la parte de mayor rendimiento en el test.
+5. **Los recursos** (sección 7) — dominar el **cuadro comparativo** de los tres recursos (objeto, órgano, plazo, silencio).
 6. **Revisión de oficio** (sección 8) — distinguir la revisión de actos nulos (art. 106) de la declaración de lesividad de actos anulables (art. 107).
 7. **Simulacro test** (150 preguntas) y **casos prácticos** aplicados a un procedimiento real del Ayuntamiento de Madrid.

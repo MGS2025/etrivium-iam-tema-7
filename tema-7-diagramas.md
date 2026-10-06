@@ -2,8 +2,8 @@
 
 > **Título oficial**: Ley 39/2015 (LPACAP): el procedimiento administrativo y los recursos administrativos.
 >
-> **Versión**: 1.0 — tipografía holgada para legibilidad al 100%
-> **Fecha**: 2026-06-25
+> **Versión**: 1.2 — Revisión jurídica
+> **Fecha**: 2026-10-01
 > **Formato**: SVG inline (zero-dependencias, escalable, imprimible)
 > **Paleta**: Ayuntamiento de Madrid #0055a0 (primario) + #d13c3c (alertas) + #2d8659 (ventajas) + #e89822 (callouts)
 
@@ -31,10 +31,10 @@
 ## D1 · Las dos leyes de 2015 y la estructura de la LPACAP
 
 **Sección**: § 1 — Contexto y estructura
-**Propósito**: Situar la Ley 39/2015 frente a la 40/2015 y los títulos de la LPACAP repartidos entre el Tema 6 y el Tema 7.
+**Propósito**: Situar la Ley 39/2015 frente a la 40/2015 y mostrar cómo se reparten los títulos de la Ley 39/2015 entre el Tema 6 y el Tema 7. La Ley 40/2015 no se estudia en este tema: solo se cita como apoyo.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" role="img" aria-label="El 1 de octubre de 2015 se aprueban la Ley 39/2015 del procedimiento administrativo común y la Ley 40/2015 de régimen jurídico del sector público, derogando la Ley 30/1992. La Ley 39/2015 se estructura en títulos: el preliminar y los títulos I y II se ven en el Tema 6, y los títulos III, IV y V en el Tema 7">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" role="img" aria-label="El 1 de octubre de 2015 se aprueban la Ley 39/2015 del procedimiento administrativo común y la Ley 40/2015 de régimen jurídico del sector público; la Ley 39/2015 deroga la Ley 30/1992. Los títulos de la Ley 39/2015 se reparten entre dos temas: el preliminar y los títulos I y II se ven en el Tema 6, y los títulos III, IV y V en el Tema 7. La Ley 40/2015 no es objeto del Tema 7, que solo la cita como apoyo">
   <style>
     .h{font:700 14px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:13px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -51,7 +51,9 @@
   <rect x="380" y="80" width="300" height="64" rx="8" fill="#0055a0"/>
   <text x="530" y="106" class="h">Ley 40/2015 · LRJSP</text>
   <text x="530" y="126" class="h" style="font-weight:400;font-size:11px">Régimen jurídico (organización interna)</text>
-  <text x="360" y="172" class="b">Estructura de la Ley 39/2015 por títulos</text>
+  <text x="190" y="166" class="b">Estructura de la Ley 39/2015 por títulos</text>
+  <text x="530" y="166" class="s">En el Tema 7 solo se cita como apoyo</text>
+  <path d="M190 171 V178 M130 178 H590 M130 178 V186 M590 178 V186" stroke="#0055a0" stroke-width="1.5" fill="none"/>
   <rect x="30" y="186" width="200" height="70" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
   <text x="130" y="210" class="t" style="font-weight:700">Tít. Prelim. + I + II</text>
   <text x="130" y="230" class="s">Objeto · interesados ·</text>
@@ -75,7 +77,7 @@
 ## D2 · El procedimiento administrativo: concepto y naturaleza
 
 **Sección**: § 2 — Concepto y naturaleza
-**Propósito**: Mostrar la doble función del procedimiento (garantía del ciudadano y cauce de acierto) y su anclaje en el art. 105 CE.
+**Propósito**: Mostrar la doble función del procedimiento (garantía del ciudadano y cauce de acierto) y su anclaje en el artículo 105 CE.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="El procedimiento administrativo es el cauce formal de actos que conduce al acto administrativo. Tiene doble naturaleza: garantía del ciudadano (audiencia, prueba, motivación) y cauce de acierto y eficacia de la Administración. Su fundamento constitucional es el artículo 105 c de la Constitución">
@@ -117,10 +119,10 @@
 ## D3 · Principios generales del procedimiento
 
 **Sección**: § 3 — Principios generales
-**Propósito**: Agrupar los principios en cuatro bloques (ordenación, instrucción, eficacia/proporcionalidad y buena administración).
+**Propósito**: Agrupar los principios en tres bloques (ordenación, instrucción y eficacia/proporcionalidad).
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="Los principios del procedimiento se agrupan en cuatro bloques: principios de ordenación (impulso de oficio, celeridad, economía procesal), principios de instrucción (contradicción, audiencia, imparcialidad), principios de eficacia y proporcionalidad, y la buena administración como principio transversal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" role="img" aria-label="Los principios del procedimiento se agrupan en tres bloques: principios de ordenación (impulso de oficio, celeridad, simplificación administrativa), principios de instrucción (contradicción, audiencia, imparcialidad e igualdad) y principios de eficacia y proporcionalidad. Se completan con la conservación de actos y trámites del artículo 51">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -129,34 +131,28 @@
   <rect x="270" y="18" width="180" height="44" rx="8" fill="#003d75"/>
   <text x="360" y="40" class="h">PRINCIPIOS DEL</text>
   <text x="360" y="56" class="h">PROCEDIMIENTO</text>
-  <path d="M360 62 V78 M102 78 H626 M102 78 V92 M279 78 V92 M456 78 V92 M626 78 V92" stroke="#0055a0" stroke-width="1.5" fill="none"/>
-  <rect x="20" y="92" width="165" height="120" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="102" y="114" class="t" style="font-weight:700">Ordenación</text>
-  <text x="102" y="138" class="s">Impulso de oficio</text>
-  <text x="102" y="158" class="s">Celeridad</text>
-  <text x="102" y="178" class="s">Economía procesal</text>
-  <text x="102" y="198" class="s">art. 71-72</text>
-  <rect x="197" y="92" width="165" height="120" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="279" y="114" class="t" style="font-weight:700">Instrucción</text>
-  <text x="279" y="138" class="s">Contradicción</text>
-  <text x="279" y="158" class="s">Audiencia</text>
-  <text x="279" y="178" class="s">Imparcialidad</text>
-  <text x="279" y="198" class="s">art. 75-76, 82</text>
-  <rect x="374" y="92" width="165" height="120" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="456" y="114" class="t" style="font-weight:700">Eficacia y</text>
-  <text x="456" y="132" class="t" style="font-weight:700">proporcionalidad</text>
-  <text x="456" y="156" class="s">Orientada al resultado</text>
-  <text x="456" y="176" class="s">Medida menos restrictiva</text>
-  <text x="456" y="196" class="s">art. 103 CE</text>
-  <rect x="551" y="92" width="150" height="120" rx="8" fill="#fff5e6" stroke="#e89822"/>
-  <text x="626" y="114" class="t" style="font-weight:700;fill:#b5740f">Buena</text>
-  <text x="626" y="132" class="t" style="font-weight:700;fill:#b5740f">administración</text>
-  <text x="626" y="156" class="s">Transversal</text>
-  <text x="626" y="176" class="s">art. 41 Carta</text>
-  <text x="626" y="196" class="s">DDFF de la UE</text>
+  <path d="M360 62 V78 M125 78 H595 M125 78 V92 M360 78 V92 M595 78 V92" stroke="#0055a0" stroke-width="1.5" fill="none"/>
+  <rect x="20" y="92" width="210" height="120" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="125" y="114" class="t" style="font-weight:700">Ordenación</text>
+  <text x="125" y="138" class="s">Impulso de oficio</text>
+  <text x="125" y="158" class="s">Celeridad</text>
+  <text x="125" y="178" class="s">Simplificación administrativa</text>
+  <text x="125" y="198" class="s">arts. 71-72 y 96</text>
+  <rect x="255" y="92" width="210" height="120" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <text x="360" y="114" class="t" style="font-weight:700">Instrucción</text>
+  <text x="360" y="138" class="s">Contradicción</text>
+  <text x="360" y="158" class="s">Audiencia</text>
+  <text x="360" y="178" class="s">Imparcialidad · igualdad</text>
+  <text x="360" y="198" class="s">arts. 75-76 y 82</text>
+  <rect x="490" y="92" width="210" height="120" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="595" y="114" class="t" style="font-weight:700">Eficacia y</text>
+  <text x="595" y="132" class="t" style="font-weight:700">proporcionalidad</text>
+  <text x="595" y="156" class="s">Orientada al resultado</text>
+  <text x="595" y="176" class="s">Medida menos restrictiva</text>
+  <text x="595" y="196" class="s">art. 103 CE · art. 100.2</text>
   <rect x="160" y="248" width="400" height="46" rx="8" fill="#eef2f7" stroke="#0055a0"/>
-  <text x="360" y="270" class="s" style="font-weight:700">Todos al servicio de una decisión legal, motivada y en plazo</text>
-  <text x="360" y="288" class="s">la forma cede ante la finalidad (antiformalismo)</text>
+  <text x="360" y="270" class="s" style="font-weight:700">Conservación de actos y trámites (art. 51)</text>
+  <text x="360" y="288" class="s">los que no habrían variado sin la infracción</text>
 </svg>
 ```
 
@@ -283,7 +279,7 @@
 ## D7 · Modos de terminación del procedimiento
 
 **Sección**: § 5 — Terminación
-**Propósito**: Enumerar los modos de terminación del art. 84 más la terminación convencional.
+**Propósito**: Enumerar los modos de terminación del artículo 84 más la terminación convencional.
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Ponen fin al procedimiento: la resolución (artículo 88), el desistimiento (abandono del procedimiento), la renuncia (abandono del derecho), la declaración de caducidad (paralización por el interesado, advertencia más tres meses, artículo 95), la imposibilidad material sobrevenida y la terminación convencional (artículo 86)">

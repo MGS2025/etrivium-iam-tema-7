@@ -2,8 +2,8 @@
 
 > **Título oficial**: Ley 39/2015 (LPACAP): el procedimiento administrativo y los recursos administrativos.
 > **Nivel**: C1 — Técnico Auxiliar TIC, Ayuntamiento de Madrid
-> **Versión**: 1.0 — Pendiente de validación
-> **Fecha**: 2026-06-25
+> **Versión**: 1.2 — Revisión jurídica
+> **Fecha**: 2026-10-01
 > **Formato**: 6 casos prácticos con escenario, cuestiones puntuadas (suman 10 puntos por caso), solución orientativa y criterios de evaluación.
 
 ---
@@ -30,10 +30,10 @@
 
 **Solución orientativa**:
 
-1. Debe **requerir la subsanación** (art. 68.1) concediendo **10 días** para aportar el documento, con indicación de que, si no lo hace, se le tendrá por **desistido** mediante resolución (art. 21). El plazo puede ampliarse hasta 5 días más, salvo que se trate de un procedimiento de concurrencia competitiva.
+1. Debe **requerir la subsanación** (art. 68.1) concediendo **10 días** para aportar el documento, con indicación de que, si no lo hace, se le tendrá por **desistido** de su petición, previa resolución dictada en los términos del artículo 21. El plazo puede ampliarse hasta 5 días más, salvo que se trate de un procedimiento selectivo o de concurrencia competitiva (art. 68.2).
 2. Se computa por **días hábiles** (art. 30.2): el cómputo empieza el **día siguiente** a la notificación (miércoles 4 de marzo) y **no cuentan** sábados, domingos ni festivos. Si el último día fuera inhábil, se prorroga al primer día hábil siguiente (art. 30.5).
 3. Se le tiene por **desistido** de su solicitud, previa resolución que así lo declare (art. 68.1 en relación con el art. 21).
-4. Desde la **entrada de la solicitud en el registro electrónico del órgano competente para tramitarla** (art. 21.3.b); el plazo es el que fije la convocatoria y, en su defecto, **3 meses** (art. 21.2-3).
+4. Desde la fecha en que la solicitud haya tenido **entrada en el registro electrónico de la Administración u Organismo competente para su tramitación** (art. 21.3.b); el plazo es el que fije la convocatoria y, en su defecto, **3 meses** (art. 21.2-3).
 
 **Criterios de evaluación**: identificar el trámite de subsanación y su plazo (10 + 5 días); aplicar el cómputo por días hábiles desde el día siguiente; conocer el efecto del desistimiento; situar el *dies a quo* del plazo de resolución en la entrada en el registro del órgano competente.
 
@@ -53,11 +53,11 @@
 **Solución orientativa**:
 
 1. El periodo de prueba se abre por un plazo **no superior a 30 días ni inferior a 10** (art. 77.2). El instructor solo puede **rechazar** las pruebas mediante **resolución motivada** cuando sean **manifiestamente improcedentes o innecesarias** (art. 77.3).
-2. Salvo disposición expresa en contrario, el informe es **facultativo y no vinculante** (art. 80.1) y debe emitirse en **10 días** (art. 80.3). Si no se emite en plazo, podrán proseguirse las actuaciones.
+2. En los procedimientos de responsabilidad patrimonial es **preceptivo** solicitar informe al servicio cuyo funcionamiento haya ocasionado la presunta lesión, sin que el plazo de emisión pueda exceder de **10 días** (art. 81.1). Salvo disposición expresa en contrario, los informes son **no vinculantes** (art. 80.1). Por ser preceptivo, si no se emite en plazo se podrá suspender el transcurso del plazo máximo legal para resolver (art. 80.3).
 3. El trámite de audiencia se realiza **instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución**, por un plazo **no inferior a 10 días ni superior a 15** (art. 82.1-2).
-4. Sí: se puede **prescindir** del trámite de audiencia cuando **no figuren en el procedimiento ni se tengan en cuenta** otros hechos ni alegaciones que los aducidos por el interesado (art. 82.4).
+4. Sí: se puede **prescindir** del trámite de audiencia cuando **no figuren en el procedimiento ni sean tenidos en cuenta en la resolución** otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado (art. 82.4).
 
-**Criterios de evaluación**: dominar el plazo de prueba (10-30) y los motivos de rechazo; distinguir facultativo/no vinculante; situar correctamente la audiencia y su plazo (10-15); conocer la excepción del art. 82.4.
+**Criterios de evaluación**: dominar el plazo de prueba (10-30) y los motivos de rechazo; identificar el informe preceptivo del artículo 81.1 y el carácter no vinculante de los informes; situar correctamente la audiencia y su plazo (10-15); conocer la excepción del artículo 82.4.
 
 ---
 
@@ -74,10 +74,10 @@
 
 **Solución orientativa**:
 
-1. La regla general en procedimientos a solicitud es el **silencio positivo** (art. 24.1). Pero, al transferir facultades sobre el **dominio público**, opera la **excepción de silencio negativo** (art. 24.1): la autorización no puede adquirirse por silencio.
-2. Se produce la **caducidad** del procedimiento sancionador, con **archivo** de las actuaciones (art. 25.1.b), sin perjuicio de reiniciarlo si la infracción no ha prescrito.
-3. Es el supuesto de **doble silencio**: si la alzada se interpuso contra una desestimación por silencio y tampoco se resuelve en plazo, el silencio de la alzada es **estimatorio (positivo)** (art. 24.1, párrafo 2.º).
-4. El **positivo** produce un acto verdadero (la resolución posterior solo puede confirmarlo); el **negativo** es una mera ficción para permitir el recurso, y la resolución expresa posterior puede dictarse en cualquier sentido (art. 24.2-3).
+1. La regla general en procedimientos a solicitud es el **silencio positivo** (art. 24.1). Pero, si su estimación transfiriera al solicitante facultades relativas al **dominio público**, el silencio tiene **efecto desestimatorio** (art. 24.1, párrafo segundo).
+2. Se produce la **caducidad** del procedimiento sancionador, y la resolución que la declare ordena el **archivo** de las actuaciones, con los efectos previstos en el artículo 95 (art. 25.1.b); si no se ha producido la prescripción, puede iniciarse un nuevo procedimiento (art. 95.3).
+3. Es el supuesto de **doble silencio**: si la alzada se interpuso contra una desestimación por silencio y tampoco se resuelve en plazo, el silencio de la alzada es **estimatorio (positivo)**, siempre que no se refiera a las materias del párrafo segundo (art. 24.1, párrafo tercero).
+4. La estimación por silencio tiene a todos los efectos la consideración de **acto administrativo finalizador del procedimiento** y la resolución expresa posterior solo puede ser confirmatoria; la desestimación tiene los **solos efectos** de permitir la interposición del recurso que proceda, y la resolución expresa posterior se adopta sin vinculación alguna al sentido del silencio (art. 24.2 y 24.3).
 
 **Criterios de evaluación**: aplicar la regla general y la excepción del dominio público; identificar la caducidad del sancionador de oficio; reconocer el doble silencio; distinguir los efectos del silencio positivo y negativo.
 
@@ -99,7 +99,7 @@
 1. **Nulidad de pleno derecho**: incompetencia **manifiesta por razón de la materia** (art. 47.1.b). El acto no produce efectos desde el origen, es insubsanable e imprescriptible.
 2. **Nulidad de pleno derecho**: dictado **prescindiendo total y absolutamente del procedimiento** legalmente establecido (art. 47.1.e).
 3. Es un **error material o aritmético**; no es causa de invalidez: se **rectifica en cualquier momento** por la propia Administración (art. 109.2), sin alterar el fondo.
-4. **Anulabilidad** por incompetencia **jerárquica** (de grado): no es nulidad (la nulidad exige incompetencia por materia o territorio). Es **subsanable** mediante **convalidación** por el órgano competente superior (art. 52.3).
+4. **Anulabilidad** (art. 48.1): es una incompetencia no determinante de nulidad (la nulidad exige incompetencia manifiesta por razón de la materia o del territorio, art. 47.1.b). Es **subsanable** mediante **convalidación** por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado (art. 52.3).
 
 **Criterios de evaluación**: distinguir la incompetencia por materia/territorio (nulidad) de la jerárquica (anulabilidad convalidable); identificar la ausencia total de procedimiento como nulidad; no confundir el error material (rectificable) con un vicio de invalidez.
 
@@ -121,7 +121,7 @@
 1. Procede el recurso de **alzada** ante el **superior jerárquico** del órgano que dictó el acto (art. 121). Plazo de interposición: **1 mes** si el acto es expreso (art. 122.1). Lo resuelve el superior en **3 meses**.
 2. Como el acto **agota** la vía administrativa, puede interponer el recurso **potestativo de reposición** ante el **mismo órgano** (la Junta de Gobierno) o acudir **directamente** al recurso contencioso-administrativo (art. 123.1). Su carácter es **potestativo**.
 3. **No**: si opta por la reposición, **no puede** interponer el contencioso hasta que la reposición se haya resuelto expresamente o por silencio (art. 123.2).
-4. Procede el recurso **extraordinario de revisión** (art. 125.1.c, documento declarado falso por sentencia firme), ante el **mismo órgano** que dictó el acto, en el plazo de **3 meses** desde que la sentencia quedó firme (art. 125.2).
+4. Procede el recurso **extraordinario de revisión** (art. 125.1.c, documento declarado falso por sentencia judicial firme), ante el **mismo órgano** que dictó el acto, en el plazo de **3 meses** desde que la sentencia judicial quedó firme (art. 125.2).
 
 **Criterios de evaluación**: elegir alzada vs reposición según agote o no la vía; conocer órgano y plazo de cada recurso; aplicar la regla de no simultaneidad reposición/contencioso; identificar la causa y el plazo de la revisión extraordinaria.
 
@@ -134,18 +134,18 @@
 **Cuestiones**:
 
 1. **(2,5 pts)** ¿Cómo puede el Ayuntamiento dejar sin efecto el acto **nulo**, con qué requisitos y plazo?
-2. **(2,5 pts)** Respecto del acto **anulable** declarativo de derechos, ¿puede anularlo la propia Administración? ¿Qué debe hacer?
+2. **(2,5 pts)** Respecto del acto **anulable** favorable para el interesado, ¿puede anularlo la propia Administración? ¿Qué debe hacer?
 3. **(2,5 pts)** ¿Qué plazo tiene la declaración de lesividad y ante quién se impugna después?
 4. **(2,5 pts)** Para cobrar la multa firme impagada, ¿qué prerrogativa y qué medio puede usar la Administración?
 
 **Solución orientativa**:
 
-1. Mediante la **revisión de oficio** del art. 106: la Administración puede declarar la nulidad **en cualquier momento** (no hay plazo, por ser nulo de pleno derecho), por iniciativa propia o a solicitud, y **previo dictamen favorable** del Consejo de Estado u órgano consultivo equivalente (art. 106.1).
+1. Mediante la **revisión de oficio** del artículo 106: la Administración puede declarar la nulidad **en cualquier momento** (no hay plazo, por ser nulo de pleno derecho), por iniciativa propia o a solicitud, y **previo dictamen favorable** del Consejo de Estado u órgano consultivo equivalente (art. 106.1).
 2. **No** puede anularlo por sí misma. Debe seguir el procedimiento de **declaración de lesividad** (art. 107): declararlo lesivo para el interés público y, después, impugnarlo en vía judicial.
-3. La declaración de lesividad debe adoptarse en el plazo de **4 años** desde la notificación del acto (art. 107.2), previa audiencia. Después se **impugna ante la jurisdicción contencioso-administrativa** (no lo anula la propia Administración).
-4. Puede usar su **autotutela ejecutiva** (los actos son ejecutivos, art. 38) y el medio de **apremio sobre el patrimonio** (arts. 100.1.a y 101), que conecta con la recaudación de los ingresos de derecho público de las Haciendas Locales. [REFERENCIA CRUZADA: Tema 8]
+3. La declaración de lesividad no puede adoptarse una vez transcurridos **4 años** desde que se dictó el acto administrativo (art. 107.2), y exige la previa audiencia de cuantos aparezcan como interesados. Después se **impugna ante la jurisdicción contencioso-administrativa** (no lo anula la propia Administración).
+4. Puede usar su **autotutela ejecutiva** (los actos son ejecutivos, art. 38) y el medio de **apremio sobre el patrimonio** (arts. 100.1.a y 101), que conecta con la recaudación de los ingresos de derecho público de las Haciendas Locales. [Relación con otros temas: Tema 8]
 
-**Criterios de evaluación**: distinguir revisión de oficio de actos nulos (art. 106, sin plazo, con dictamen) de la declaración de lesividad de actos anulables (art. 107, 4 años + contencioso); identificar la autotutela ejecutiva y el apremio sobre el patrimonio como vía de cobro.
+**Criterios de evaluación**: distinguir revisión de oficio de actos nulos (art. 106, en cualquier momento, con dictamen) de la declaración de lesividad de actos anulables (art. 107, 4 años desde que se dictó el acto + contencioso); identificar la autotutela ejecutiva y el apremio sobre el patrimonio como vía de cobro.
 
 ---
 
