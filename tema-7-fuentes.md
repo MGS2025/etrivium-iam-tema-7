@@ -31,10 +31,10 @@ El Tema 7 trabaja con un **corpus normativo cerrado**: el articulado de la **Ley
 
 ### Esquema de referencia para el contenido
 
-- **Articulado LPACAP**: `[LPACAP, art. X]` o `[LPACAP, art. X.Y]` — p. ej. `[LPACAP, art. 47]`
-- **Régimen Jurídico del Sector Público**: `[LRJSP, art. X]`
-- **Constitución**: `[CE, art. 105]`
-- **Bases del Régimen Local**: `[LBRL, art. 52.2]`
+- **Articulado LPACAP**: `(art. X LPACAP)` o `(art. X.Y LPACAP)` — p. ej. `(art. 47 LPACAP)`
+- **Régimen Jurídico del Sector Público**: `(art. X LRJSP)`
+- **Constitución**: `(art. 105 CE)`
+- **Bases del Régimen Local**: `(art. 52.2 LBRL)`
 
 ---
 
@@ -48,7 +48,7 @@ El Tema 7 trabaja con un **corpus normativo cerrado**: el articulado de la **Ley
 
 ## Normas de citación en el contenido
 
-1. Toda afirmación que reproduzca el articulado va acompañada de `[LPACAP, art. X]`.
+1. Toda afirmación que reproduzca el articulado va acompañada de `(art. X LPACAP)`.
 2. Los datos memorísticos (plazos, órganos competentes, mayorías, efectos del silencio) se marcan con `[DATO CLAVE]`.
 3. Las reproducciones literales o paráfrasis cercanas del articulado se marcan con `[CITA NORMATIVA]`.
 4. La aplicación al procedimiento del Ayuntamiento de Madrid (IAM) se marca con `[EJEMPLO DE APLICACIÓN EN EL AYTO]`.

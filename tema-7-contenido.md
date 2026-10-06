@@ -22,7 +22,7 @@ Este tema incluye cuatro tipos de **cajas callout** para facilitar el estudio:
 
 > **[RELACIÓN CON OTROS TEMAS]** Enlace conceptual a otros temas del temario o a otras secciones del propio Tema 7.
 
-Las citas al articulado se expresan como `[LPACAP, art. X]`. El registro completo de fuentes está en `tema-7-fuentes.md`.
+Las citas al articulado se expresan como `(art. X LPACAP)`. El registro completo de fuentes está en `tema-7-fuentes.md`.
 
 ---
 
@@ -37,15 +37,15 @@ El **1 de octubre de 2015** se aprobaron dos leyes que, según su preámbulo, ar
 
 > **[DATO CLAVE]** **Dos leyes, una fecha** (1 de octubre de 2015): la **39/2015** es la del **procedimiento** (cómo se relaciona la Administración con el ciudadano); la **40/2015** es la del **régimen jurídico** (cómo se organiza la Administración por dentro). La Ley 39/2015 derogó expresamente la Ley 30/1992. [LPACAP, disposición derogatoria única; LRJSP]
 
-La competencia sobre el procedimiento administrativo común corresponde **en exclusiva al Estado** en virtud del **artículo 149.1.18.ª CE**, «sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas»; por eso la LPACAP se aplica a **todas** las Administraciones (estatal, autonómica y local) y, por tanto, también al Ayuntamiento de Madrid [CE, art. 149.1.18.ª].
+La competencia sobre el procedimiento administrativo común corresponde **en exclusiva al Estado** en virtud del **artículo 149.1.18.ª CE**, «sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas»; por eso la LPACAP se aplica a **todas** las Administraciones (estatal, autonómica y local) y, por tanto, también al Ayuntamiento de Madrid (art. 149.1.18.ª CE).
 
 ### 1.2 Objeto y ámbito de aplicación
 
-> **[CITA NORMATIVA]** La Ley 39/2015 *"tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria"* [LPACAP, art. 1.1].
+> **[CITA NORMATIVA]** La Ley 39/2015 *"tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria"* (art. 1.1 LPACAP).
 
-Según el preámbulo de la Ley 39/2015, los anteriores procedimientos especiales sobre **potestad sancionadora** y **responsabilidad patrimonial**, que la Ley 30/1992 regulaba en títulos separados, se integran como **especialidades del procedimiento administrativo común** [LPACAP, preámbulo, apartado V].
+Según el preámbulo de la Ley 39/2015, los anteriores procedimientos especiales sobre **potestad sancionadora** y **responsabilidad patrimonial**, que la Ley 30/1992 regulaba en títulos separados, se integran como **especialidades del procedimiento administrativo común** (preámbulo de la LPACAP, apartado V).
 
-El **ámbito subjetivo** (art. 2) alcanza a la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las **Entidades que integran la Administración Local** y el sector público institucional [LPACAP, art. 2].
+El **ámbito subjetivo** (art. 2) alcanza a la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las **Entidades que integran la Administración Local** y el sector público institucional (art. 2 LPACAP).
 
 > **[EJEMPLO DE APLICACIÓN EN EL AYTO]** El **Ayuntamiento de Madrid** es una entidad local y, como tal, tramita sus expedientes (licencias, multas, ayudas, contratación menor, expedientes del padrón, etc.) conforme a la Ley 39/2015. Un Técnico Auxiliar TIC del **IAM (Informática del Ayuntamiento de Madrid)** maneja a diario expedientes electrónicos que son la materialización informática de este procedimiento. [Relación con otros temas: Tema 2 — Administración Local]
 
@@ -66,7 +66,7 @@ Este Tema 7 **continúa** el Tema 6. Mientras el Tema 6 estudia los **sujetos y 
 | IV — Del procedimiento administrativo común | 53-105 | **Garantías y las cuatro fases** del procedimiento | **Tema 7** |
 | V — De la revisión de los actos en vía administrativa | 106-126 | **Revisión de oficio y recursos administrativos** | **Tema 7** |
 
-> **[DATO CLAVE]** El **procedimiento administrativo común** se regula en el **Título IV** (arts. 53-105); los **recursos** y la **revisión de oficio** en el **Título V** (arts. 106-126); el **acto administrativo** en el **Título III** (arts. 34-52). [LPACAP]
+> **[DATO CLAVE]** El **procedimiento administrativo común** se regula en el **Título IV** (arts. 53-105); los **recursos** y la **revisión de oficio** en el **Título V** (arts. 106-126); el **acto administrativo** en el **Título III** (arts. 34-52). (LPACAP)
 
 ---
 
@@ -79,7 +79,7 @@ El **procedimiento administrativo** es el **conjunto ordenado de trámites y act
 - **Garantía del ciudadano**: la decisión administrativa se adopta oyendo al interesado, con pruebas e informes, y de forma motivada.
 - **Acierto y eficacia de la decisión**: ordena la formación de la voluntad administrativa.
 
-> **[CITA NORMATIVA]** El preámbulo de la Ley 39/2015 se refiere al procedimiento administrativo *"entendido como el conjunto ordenado de trámites y actuaciones formalmente realizadas, según el cauce legalmente previsto, para dictar un acto administrativo o expresar la voluntad de la Administración"*. El acto es el **resultado**; el procedimiento es el **camino** que conduce a él. [LPACAP, preámbulo, apartado II]
+> **[CITA NORMATIVA]** El preámbulo de la Ley 39/2015 se refiere al procedimiento administrativo *"entendido como el conjunto ordenado de trámites y actuaciones formalmente realizadas, según el cauce legalmente previsto, para dictar un acto administrativo o expresar la voluntad de la Administración"*. El acto es el **resultado**; el procedimiento es el **camino** que conduce a él. (preámbulo de la LPACAP, apartado II)
 
 ### 2.2 Naturaleza jurídica: garantía del ciudadano y cauce de actuación
 
@@ -89,13 +89,13 @@ La naturaleza del procedimiento es **instrumental y garantista**:
 2. Es una **garantía** de los derechos de los ciudadanos: la audiencia, la prueba o la motivación.
 3. Es **reglado** en sus elementos esenciales: omitir trámites esenciales puede acarrear la **nulidad** o **anulabilidad** del acto (ver §6).
 
-> **[DATO CLAVE]** Prescindir **"total y absolutamente del procedimiento legalmente establecido"** es causa de **nulidad de pleno derecho** [LPACAP, art. 47.1.e)]. En cambio, los defectos de forma menores solo producen **anulabilidad** si impiden al acto alcanzar su fin o generan **indefensión** [LPACAP, art. 48.2]. (Ver §6.)
+> **[DATO CLAVE]** Prescindir **"total y absolutamente del procedimiento legalmente establecido"** es causa de **nulidad de pleno derecho** (art. 47.1.e) LPACAP). En cambio, los defectos de forma menores solo producen **anulabilidad** si impiden al acto alcanzar su fin o generan **indefensión** (art. 48.2 LPACAP). (Ver §6.)
 
 ### 2.3 Fundamento constitucional (art. 105 CE)
 
 El procedimiento administrativo tiene **anclaje directo en la Constitución**:
 
-> **[CITA NORMATIVA]** El artículo 105 CE remite a la ley para regular: *"a) La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten. b) El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas. c) El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado."* [CE, art. 105].
+> **[CITA NORMATIVA]** El artículo 105 CE remite a la ley para regular: *"a) La audiencia de los ciudadanos, directamente o a través de las organizaciones y asociaciones reconocidas por la ley, en el procedimiento de elaboración de las disposiciones administrativas que les afecten. b) El acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas. c) El procedimiento a través del cual deben producirse los actos administrativos, garantizando, cuando proceda, la audiencia del interesado."* (art. 105 CE).
 
 A ello se añaden otros preceptos constitucionales que enmarcan el procedimiento:
 
@@ -103,7 +103,7 @@ A ello se añaden otros preceptos constitucionales que enmarcan el procedimiento
 - **Art. 106.1 CE**: los tribunales **controlan** la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de esta a los fines que la justifican.
 - **Art. 9.3 CE**: garantiza, entre otros, los principios de **seguridad jurídica**, responsabilidad e interdicción de la arbitrariedad de los poderes públicos.
 
-> **[DATO CLAVE]** El precepto constitucional que ordena que exista un **procedimiento** para producir los actos administrativos, garantizando la **audiencia del interesado**, es el **artículo 105.c) CE**. [CE, art. 105]
+> **[DATO CLAVE]** El precepto constitucional que ordena que exista un **procedimiento** para producir los actos administrativos, garantizando la **audiencia del interesado**, es el **artículo 105.c) CE**. (art. 105 CE)
 
 ---
 
@@ -119,7 +119,7 @@ Ordenan el **impulso y la marcha** del expediente:
 - **Celeridad** y **simplificación administrativa**: de acuerdo con el principio de simplificación administrativa, se acuerdan en un solo acto todos los trámites que, por su naturaleza, admitan un impulso simultáneo y no sea obligado su cumplimiento sucesivo (**concentración de trámites**, art. 72.1).
 - **Tramitación simplificada** (art. 96.1): cuando razones de interés público o la falta de complejidad del procedimiento así lo aconsejen, las Administraciones Públicas pueden acordar, de oficio o a solicitud del interesado, la tramitación simplificada del procedimiento.
 
-> **[CITA NORMATIVA]** *"El procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad"* [LPACAP, art. 71.1].
+> **[CITA NORMATIVA]** *"El procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos, respetando los principios de transparencia y publicidad"* (art. 71.1 LPACAP).
 
 ### 3.2 Principios de instrucción
 
@@ -146,7 +146,7 @@ El procedimiento administrativo común se ordena en **cuatro fases**: **iniciaci
 
 ### 4.1 Iniciación (arts. 54-69)
 
-El procedimiento puede iniciarse **de oficio** o **a solicitud del interesado** [LPACAP, art. 54].
+El procedimiento puede iniciarse **de oficio** o **a solicitud del interesado** (art. 54 LPACAP).
 
 **A) Iniciación de oficio** (art. 58). Se acuerda por el órgano competente, por alguna de estas **cuatro vías**:
 
@@ -157,19 +157,19 @@ El procedimiento puede iniciarse **de oficio** o **a solicitud del interesado** 
 | **Petición razonada de otros órganos** | Un órgano que no es competente propone a otro que inicie |
 | **Denuncia** | Acto por el que cualquier persona pone en conocimiento de la Administración hechos que pueden justificar el inicio |
 
-> **[DATO CLAVE]** La **denuncia no obliga** a iniciar el procedimiento ni convierte al denunciante en interesado por ese solo hecho. La presentación de una denuncia **no confiere, por sí sola, la condición de interesado** [LPACAP, art. 62.5].
+> **[DATO CLAVE]** La **denuncia no obliga** a iniciar el procedimiento ni convierte al denunciante en interesado por ese solo hecho. La presentación de una denuncia **no confiere, por sí sola, la condición de interesado** (art. 62.5 LPACAP).
 
 Antes de iniciar, el órgano puede abrir un **periodo de información o actuaciones previas** para conocer las circunstancias y decidir si procede iniciar (art. 55), y adoptar **medidas provisionales** (art. 56).
 
-**B) Iniciación a solicitud del interesado** (arts. 66-68). La **solicitud** debe contener: nombre y apellidos del interesado y, en su caso, del representante; identificación del medio electrónico o lugar para notificaciones; hechos, razones y petición; lugar y fecha; firma; y órgano al que se dirige [LPACAP, art. 66].
+**B) Iniciación a solicitud del interesado** (arts. 66-68). La **solicitud** debe contener: nombre y apellidos del interesado y, en su caso, del representante; identificación del medio electrónico o lugar para notificaciones; hechos, razones y petición; lugar y fecha; firma; y órgano al que se dirige (art. 66 LPACAP).
 
 - **Subsanación y mejora** (art. 68): si la solicitud no reúne los requisitos, se requiere al interesado para que en **10 días** subsane, con indicación de que, si no lo hace, **se le tendrá por desistido** de su petición, previa resolución dictada en los términos del artículo 21 (art. 68.1). El plazo puede **ampliarse hasta 5 días** más (salvo procedimientos selectivos o de concurrencia competitiva) (art. 68.2).
 
-> **[DATO CLAVE]** Plazo de **subsanación de la solicitud: 10 días**, ampliable hasta **5 más** (no en concurrencia competitiva). Si no se subsana → **desistimiento** [LPACAP, art. 68.1-2]. No confundir con el plazo de **audiencia** (10-15 días).
+> **[DATO CLAVE]** Plazo de **subsanación de la solicitud: 10 días**, ampliable hasta **5 más** (no en concurrencia competitiva). Si no se subsana → **desistimiento** (art. 68.1-2 LPACAP). No confundir con el plazo de **audiencia** (10-15 días).
 
 **Medidas provisionales** (art. 56). Pueden adoptarse, de oficio o a instancia de parte, las medidas provisionales necesarias para asegurar la eficacia de la resolución, si hay elementos de juicio suficientes. Antes de iniciar el procedimiento, solo en casos de **urgencia inaplazable** y para la protección provisional de los intereses implicados; deben ser **confirmadas, modificadas o levantadas** en el acuerdo de inicio (que debe producirse dentro de los **15 días** siguientes). No cabe adoptar medidas que causen **perjuicio de difícil o imposible reparación** ni que impliquen violación de derechos amparados por las leyes.
 
-> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Si la Inspección municipal detecta un local con una instalación eléctrica peligrosa, el Ayuntamiento de Madrid puede acordar como **medida provisional** el **precinto** de la actividad (art. 56) mientras tramita el expediente de disciplina, para evitar un riesgo inminente. [LPACAP, art. 56]
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Si la Inspección municipal detecta un local con una instalación eléctrica peligrosa, el Ayuntamiento de Madrid puede acordar como **medida provisional** el **precinto** de la actividad (art. 56) mientras tramita el expediente de disciplina, para evitar un riesgo inminente. (art. 56 LPACAP)
 
 ### 4.2 Ordenación (arts. 70-74)
 
@@ -192,9 +192,9 @@ La ordenación es el conjunto de reglas que mantienen vivo y ordenado el expedie
 - **Ampliación** (art. 32): la Administración puede ampliar los plazos, de oficio o a petición, si las circunstancias lo aconsejan y no se perjudican derechos de tercero; la ampliación no podrá exceder de la **mitad** del plazo. Los acuerdos sobre ampliación de plazos o sobre su denegación **no son susceptibles de recurso** (art. 32.3).
 - **Tramitación de urgencia** (art. 33): se pueden **reducir a la mitad** los plazos del procedimiento ordinario (salvo los relativos a la presentación de solicitudes y recursos). Contra el acuerdo que declara la urgencia **no cabe recurso**.
 
-> **[DATO CLAVE]** Días en plazos administrativos = **días hábiles** (no cuentan sábados, domingos ni festivos), salvo que la norma diga "días naturales". El cómputo arranca **el día siguiente** a la notificación. Meses/años = **de fecha a fecha**. [LPACAP, art. 30]
+> **[DATO CLAVE]** Días en plazos administrativos = **días hábiles** (no cuentan sábados, domingos ni festivos), salvo que la norma diga "días naturales". El cómputo arranca **el día siguiente** a la notificación. Meses/años = **de fecha a fecha**. (art. 30 LPACAP)
 
-> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Una notificación electrónica del Ayuntamiento de Madrid se entiende **rechazada** si transcurren **10 días naturales** desde su puesta a disposición en la sede electrónica sin que el interesado acceda (art. 43.2). En cambio, el plazo para **interponer el recurso** que aparece en esa notificación se cuenta por **días hábiles** o por meses. Distinguir ambos cómputos es un error frecuente. [LPACAP, arts. 43.2 y 30]
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Una notificación electrónica del Ayuntamiento de Madrid se entiende **rechazada** si transcurren **10 días naturales** desde su puesta a disposición en la sede electrónica sin que el interesado acceda (art. 43.2). En cambio, el plazo para **interponer el recurso** que aparece en esa notificación se cuenta por **días hábiles** o por meses. Distinguir ambos cómputos es un error frecuente. (arts. 43.2 y 30 LPACAP)
 
 ### 4.3 Instrucción (arts. 75-83)
 
@@ -204,7 +204,7 @@ Los **actos de instrucción** son los necesarios para la determinación, conocim
 
 **B) Prueba** (arts. 77-78). Los hechos relevantes pueden acreditarse por cualquier medio admisible en Derecho. El instructor acuerda la apertura de un **periodo de prueba** de **10 a 30 días** cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija (art. 77.2); solo puede **rechazar** las pruebas propuestas mediante resolución motivada cuando sean **manifiestamente improcedentes o innecesarias**.
 
-> **[DATO CLAVE]** Los **hechos declarados probados por resoluciones judiciales penales firmes vinculan** a las Administraciones respecto de los procedimientos sancionadores que tramiten [LPACAP, art. 77.4].
+> **[DATO CLAVE]** Los **hechos declarados probados por resoluciones judiciales penales firmes vinculan** a las Administraciones respecto de los procedimientos sancionadores que tramiten (art. 77.4 LPACAP).
 
 **C) Informes** (arts. 79-81). Son las opiniones técnicas o jurídicas que se incorporan al expediente. Se clasifican en dos ejes:
 
@@ -213,7 +213,7 @@ Los **actos de instrucción** son los necesarios para la determinación, conocim
 | Según su **exigibilidad** | **Preceptivos** (la norma los exige) / **Facultativos** (los pide el instructor si lo cree conveniente) | Salvo disposición expresa, los informes son **facultativos** |
 | Según su **fuerza** | **Vinculantes** (obligan al órgano que resuelve) / **No vinculantes** | Salvo disposición expresa, los informes son **no vinculantes** |
 
-> **[CITA NORMATIVA]** *"Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes"* [LPACAP, art. 80.1].
+> **[CITA NORMATIVA]** *"Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes"* (art. 80.1 LPACAP).
 
 Se solicitan los informes que sean preceptivos por las disposiciones legales y los que se juzguen necesarios para resolver (art. 79.1). Los informes se emiten en **10 días**, salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor (art. 80.2). De no emitirse el informe en plazo, se podrán **proseguir las actuaciones**, salvo cuando se trate de un informe **preceptivo**, en cuyo caso se podrá suspender el transcurso del plazo máximo legal para resolver (art. 80.3).
 
@@ -222,9 +222,9 @@ Se solicitan los informes que sean preceptivos por las disposiciones legales y l
 - **Audiencia** (art. 82): instruido el procedimiento e **inmediatamente antes** de redactar la propuesta de resolución, se pone de manifiesto a los interesados (o a su representante) el expediente para que aleguen y presenten documentos. Plazo: **no inferior a 10 días ni superior a 15**. Se puede **prescindir** del trámite cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado (art. 82.4).
 - **Información pública** (art. 83): cuando la naturaleza del procedimiento lo requiera, el órgano puede acordar un periodo de **información pública** anunciado en el diario oficial correspondiente, por plazo **no inferior a 20 días**. La comparecencia en la información pública **no otorga, por sí misma, la condición de interesado**; pero quienes presenten alegaciones tienen derecho a obtener respuesta razonada.
 
-> **[DATO CLAVE]** Tres plazos que se confunden: **audiencia 10-15 días** (art. 82.2) · **información pública no inferior a 20 días** (art. 83.2) · **prueba 10-30 días** (art. 77.2). [LPACAP]
+> **[DATO CLAVE]** Tres plazos que se confunden: **audiencia 10-15 días** (art. 82.2) · **información pública no inferior a 20 días** (art. 83.2) · **prueba 10-30 días** (art. 77.2). (LPACAP)
 
-> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** En la tramitación de una **ordenanza municipal** del Ayuntamiento de Madrid (p. ej. una ordenanza de movilidad), se abre **información pública** para que cualquier vecino formule alegaciones; en cambio, en un expediente de **reintegro de una subvención** a un beneficiario concreto se practica el **trámite de audiencia** a ese beneficiario. [LPACAP, arts. 82-83]
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** En la tramitación de una **ordenanza municipal** del Ayuntamiento de Madrid (p. ej. una ordenanza de movilidad), se abre **información pública** para que cualquier vecino formule alegaciones; en cambio, en un expediente de **reintegro de una subvención** a un beneficiario concreto se practica el **trámite de audiencia** a ese beneficiario. (arts. 82-83 LPACAP)
 
 ---
 
@@ -232,15 +232,15 @@ Se solicitan los informes que sean preceptivos por las disposiciones legales y l
 
 ### 5.1 La obligación de resolver (art. 21)
 
-> **[CITA NORMATIVA]** *"La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación"* [LPACAP, art. 21.1].
+> **[CITA NORMATIVA]** *"La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación"* (art. 21.1 LPACAP).
 
-El **plazo máximo** para notificar la resolución es el que fije la norma del procedimiento, y **nunca podrá exceder de 6 meses** salvo que una norma con rango de ley o el Derecho de la UE establezcan uno mayor. **Si la norma no fija plazo, el supletorio es de 3 meses** [LPACAP, art. 21.2 y 21.3].
+El **plazo máximo** para notificar la resolución es el que fije la norma del procedimiento, y **nunca podrá exceder de 6 meses** salvo que una norma con rango de ley o el Derecho de la UE establezcan uno mayor. **Si la norma no fija plazo, el supletorio es de 3 meses** (art. 21.2 y 21.3 LPACAP).
 
-> **[DATO CLAVE]** Plazo **supletorio** para resolver y notificar: **3 meses**. Cómputo del inicio: en procedimientos de **oficio**, desde el **acuerdo de iniciación**; a **solicitud** del interesado, desde la fecha en que la solicitud haya tenido **entrada en el registro electrónico** de la Administración u Organismo competente para su tramitación [LPACAP, art. 21.3].
+> **[DATO CLAVE]** Plazo **supletorio** para resolver y notificar: **3 meses**. Cómputo del inicio: en procedimientos de **oficio**, desde el **acuerdo de iniciación**; a **solicitud** del interesado, desde la fecha en que la solicitud haya tenido **entrada en el registro electrónico** de la Administración u Organismo competente para su tramitación (art. 21.3 LPACAP).
 
 ### 5.2 Modos de terminación (art. 84)
 
-> **[CITA NORMATIVA]** *"Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y la declaración de caducidad"* [LPACAP, art. 84.1]. También produce la terminación la **imposibilidad material** de continuarlo por causas sobrevenidas, mediante resolución motivada (art. 84.2).
+> **[CITA NORMATIVA]** *"Pondrán fin al procedimiento la resolución, el desistimiento, la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico, y la declaración de caducidad"* (art. 84.1 LPACAP). También produce la terminación la **imposibilidad material** de continuarlo por causas sobrevenidas, mediante resolución motivada (art. 84.2).
 
 A ello se añade la **terminación convencional** (art. 86).
 
@@ -258,11 +258,11 @@ A ello se añade la **terminación convencional** (art. 86).
 - **Desistimiento de la Administración** (art. 93): solo cabe en procedimientos iniciados de oficio, en los supuestos y con los requisitos previstos en las leyes.
 - **Desistimiento y renuncia del interesado** (art. 94): todo interesado puede **desistir de su solicitud** o, cuando ello no esté prohibido por el ordenamiento jurídico, **renunciar a sus derechos** (art. 94.1). La Administración acepta de plano el desistimiento o la renuncia y declara concluso el procedimiento, salvo que, habiéndose personado terceros interesados, instasen estos su continuación en el plazo de **10 días** desde que fueron notificados (art. 94.4).
 
-> **[DATO CLAVE]** **Desistimiento** = abandono **del procedimiento** (se conserva el derecho, se puede volver a pedir). **Renuncia** = abandono **del derecho** (no se podrá volver a pedir). [LPACAP, art. 94]
+> **[DATO CLAVE]** **Desistimiento** = abandono **del procedimiento** (se conserva el derecho, se puede volver a pedir). **Renuncia** = abandono **del derecho** (no se podrá volver a pedir). (art. 94 LPACAP)
 
 **C) Caducidad** (art. 95). En los procedimientos iniciados **a solicitud del interesado**, cuando se produzca su **paralización por causa imputable al interesado**, la Administración le **advierte** que, transcurridos **3 meses**, se producirá la caducidad. Consumido ese plazo sin actividad, se declara la caducidad y se archivan las actuaciones. La caducidad **no produce por sí sola la prescripción** de las acciones, y los procedimientos caducados no interrumpen el plazo de prescripción.
 
-> **[DATO CLAVE]** No confundir las **dos caducidades**: (1) la **caducidad del artículo 95** (paralización por el **interesado** en procedimientos a solicitud, advertencia + 3 meses); (2) la **caducidad-perención del artículo 25.1.b)**, que se produce cuando es la **Administración** la que no resuelve en plazo un procedimiento **de oficio** del que pudieran derivarse efectos **desfavorables o de gravamen** (p. ej. sancionador). [LPACAP, arts. 95 y 25]
+> **[DATO CLAVE]** No confundir las **dos caducidades**: (1) la **caducidad del artículo 95** (paralización por el **interesado** en procedimientos a solicitud, advertencia + 3 meses); (2) la **caducidad-perención del artículo 25.1.b)**, que se produce cuando es la **Administración** la que no resuelve en plazo un procedimiento **de oficio** del que pudieran derivarse efectos **desfavorables o de gravamen** (p. ej. sancionador). (arts. 95 y 25 LPACAP)
 
 **D) Terminación convencional** (art. 86). Las Administraciones pueden celebrar **acuerdos, pactos, convenios o contratos** con personas de Derecho público o privado, siempre que no sean contrarios al ordenamiento ni versen sobre materias no susceptibles de transacción, y tengan por objeto satisfacer el interés público. Estos acuerdos pueden tener la consideración de **finalizadores del procedimiento** o insertarse en él con carácter previo a la resolución.
 
@@ -272,7 +272,7 @@ El silencio administrativo regula los efectos del **vencimiento del plazo máxim
 
 **A) Silencio en procedimientos iniciados a solicitud del interesado** (art. 24).
 
-> **[CITA NORMATIVA]** *"En los procedimientos iniciados a solicitud del interesado... el vencimiento del plazo máximo sin haberse notificado resolución expresa legitima al interesado... para entenderla estimada por silencio administrativo"* [LPACAP, art. 24.1]. **La regla general es el silencio positivo (estimatorio).**
+> **[CITA NORMATIVA]** *"En los procedimientos iniciados a solicitud del interesado... el vencimiento del plazo máximo sin haberse notificado resolución expresa legitima al interesado... para entenderla estimada por silencio administrativo"* (art. 24.1 LPACAP). **La regla general es el silencio positivo (estimatorio).**
 
 **Excepciones en que el silencio es negativo (desestimatorio)** — cuando una **norma con rango de ley** o una **norma de Derecho de la UE o de Derecho internacional aplicable en España** así lo establezcan (si el procedimiento tiene por objeto el acceso a actividades o su ejercicio, esa ley deberá fundarse en razones imperiosas de interés general), y además en estos casos legales:
 
@@ -282,7 +282,7 @@ El silencio administrativo regula los efectos del **vencimiento del plazo máxim
 - Procedimientos de **responsabilidad patrimonial** de las Administraciones.
 - Procedimientos de **impugnación de actos y disposiciones** y los de **revisión de oficio** iniciados a solicitud de los interesados.
 
-> **[DATO CLAVE]** **Doble silencio en alzada**: si se recurre en alzada una **desestimación por silencio** y la alzada **tampoco se resuelve** en plazo, el silencio de la alzada es **positivo (estimatorio)**, siempre que no se refiera a las materias del párrafo anterior (petición, dominio o servicio público, medio ambiente, responsabilidad patrimonial) [LPACAP, art. 24.1, párrafo tercero]. Es la excepción a la excepción.
+> **[DATO CLAVE]** **Doble silencio en alzada**: si se recurre en alzada una **desestimación por silencio** y la alzada **tampoco se resuelve** en plazo, el silencio de la alzada es **positivo (estimatorio)**, siempre que no se refiera a las materias del párrafo anterior (petición, dominio o servicio público, medio ambiente, responsabilidad patrimonial) (art. 24.1 LPACAP, párrafo tercero). Es la excepción a la excepción.
 
 **Efectos del silencio** (art. 24.2-4):
 
@@ -290,7 +290,7 @@ El silencio administrativo regula los efectos del **vencimiento del plazo máxim
 - La desestimación por silencio tiene los **solos efectos** de permitir a los interesados la interposición del recurso administrativo o contencioso-administrativo que resulte procedente (art. 24.2); la resolución expresa posterior se adopta **sin vinculación alguna al sentido del silencio** (art. 24.3.b).
 - Los actos producidos por silencio pueden acreditarse por cualquier medio de prueba admitido en Derecho, incluido el **certificado acreditativo del silencio**, que el órgano competente para resolver expide de oficio en el plazo de **15 días** desde que expire el plazo máximo para resolver (art. 24.4).
 
-> **[CITA NORMATIVA]** *"En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio"* [LPACAP, art. 24.3.b)].
+> **[CITA NORMATIVA]** *"En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio"* (art. 24.3.b) LPACAP).
 
 **B) Falta de resolución expresa en procedimientos iniciados de oficio** (art. 25). El vencimiento del plazo no exime a la Administración del cumplimiento de la obligación legal de resolver y produce estos efectos (art. 25.1):
 
@@ -299,7 +299,7 @@ El silencio administrativo regula los efectos del **vencimiento del plazo máxim
 | De los que pudiera derivarse el **reconocimiento o constitución de derechos** u otras situaciones jurídicas favorables | Los interesados que hubieren comparecido pueden entender **desestimadas** sus pretensiones por silencio |
 | Aquellos en que la Administración ejercite potestades **sancionadoras** o, en general, de **intervención**, susceptibles de producir **efectos desfavorables o de gravamen** | **Caducidad**: la resolución que la declare ordena el archivo de las actuaciones |
 
-> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Si un ciudadano solicita una **licencia** al Ayuntamiento de Madrid y la concejalía competente no resuelve en plazo, el régimen del silencio depende de la ley sectorial: muchas licencias urbanísticas tienen, por ley, **silencio negativo** (no se pueden adquirir por silencio facultades contrarias al planeamiento). En cambio, si la Inspección municipal abre de oficio un **expediente sancionador** por una infracción y no lo resuelve en plazo, se produce la **caducidad** y debe archivarse (sin perjuicio de reiniciarlo si no ha prescrito la infracción). [LPACAP, arts. 24-25]
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Si un ciudadano solicita una **licencia** al Ayuntamiento de Madrid y la concejalía competente no resuelve en plazo, el régimen del silencio depende de la ley sectorial: muchas licencias urbanísticas tienen, por ley, **silencio negativo** (no se pueden adquirir por silencio facultades contrarias al planeamiento). En cambio, si la Inspección municipal abre de oficio un **expediente sancionador** por una infracción y no lo resuelve en plazo, se produce la **caducidad** y debe archivarse (sin perjuicio de reiniciarlo si no ha prescrito la infracción). (arts. 24-25 LPACAP)
 
 ---
 
@@ -312,13 +312,13 @@ El **acto administrativo** es la **declaración de voluntad, de juicio, de conoc
 Para que sean válidos, se han de cumplir estos requisitos:
 
 - que sean dictados por **órgano competente** (art. 34).
-- ajustado al **ordenamiento jurídico**, con contenido **determinado y posible** y adecuado a sus fines (art. 34.2).
+- ajustado al **ordenamiento jurídico**, con contenido **determinado** y adecuado a sus fines (art. 34.2).
 - **producido conforme al procedimiento** y a través del **órgano competente**; se produce por escrito a través de medios electrónicos, salvo que su naturaleza exija otra forma (art. 36).
 - motivado en los supuestos ya vistos (actos que limitan derechos, resuelven recursos, discrecionales, se separan del criterio, etc.) (art. 35).
 
 ### 6.2 Eficacia: notificación y publicación
 
-> **[CITA NORMATIVA]** *"Los actos de las Administraciones Públicas... se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa"* [LPACAP, art. 39.1].
+> **[CITA NORMATIVA]** *"Los actos de las Administraciones Públicas... se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa"* (art. 39.1 LPACAP).
 
 La eficacia puede quedar **demorada** cuando lo exija el contenido del acto o esté supeditada a su **notificación** o **publicación** (art. 39.2).
 
@@ -356,11 +356,11 @@ La invalidez puede ser de dos grados:
 
 Además, son nulas de pleno derecho las **disposiciones administrativas** (reglamentos) que vulneren la Constitución, las leyes u otras de rango superior, las que regulen materias reservadas a la ley y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas (art. 47.2).
 
-> **[DATO CLAVE]** La incompetencia que causa **nulidad** es la **manifiesta por razón de materia o territorio**. La incompetencia **jerárquica** (de grado) solo produce **anulabilidad** y, además, es **convalidable** por el órgano superior competente (art. 52.3). [LPACAP, arts. 47.1.b) y 52]
+> **[DATO CLAVE]** La incompetencia que causa **nulidad** es la **manifiesta por razón de materia o territorio**. La incompetencia **jerárquica** (de grado) solo produce **anulabilidad** y, además, es **convalidable** por el órgano superior competente (art. 52.3). (arts. 47.1.b) y 52 LPACAP)
 
 **B) Anulabilidad** (art. 48) — la regla general de la invalidez; el acto produce efectos mientras no se anule, y el vicio es **subsanable** (convalidación, art. 52):
 
-> **[CITA NORMATIVA]** *"Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder"* [LPACAP, art. 48.1].
+> **[CITA NORMATIVA]** *"Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder"* (art. 48.1 LPACAP).
 
 - **Defecto de forma**: solo determina la anulabilidad cuando el acto **carezca de los requisitos formales indispensables para alcanzar su fin** o **dé lugar a indefensión** de los interesados (art. 48.2).
 - **Actuaciones fuera de plazo**: solo implican la anulabilidad del acto cuando **lo imponga la naturaleza del término o plazo** (art. 48.3).
@@ -382,7 +382,7 @@ Además, son nulas de pleno derecho las **disposiciones administrativas** (regla
 
 El **recurso administrativo** es el acto del interesado por el que solicita a la propia Administración la **revisión** de un acto que estima contrario a Derecho.
 
-> **[CITA NORMATIVA]** *"Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley"* [LPACAP, art. 112.1].
+> **[CITA NORMATIVA]** *"Contra las resoluciones y los actos de trámite, si estos últimos deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos, podrán interponerse por los interesados los recursos de alzada y potestativo de reposición, que cabrá fundar en cualquiera de los motivos de nulidad o anulabilidad previstos en los artículos 47 y 48 de esta Ley"* (art. 112.1 LPACAP).
 
 Son **recurribles** las **resoluciones** y los **actos de trámite cualificados** (los que deciden directa o indirectamente el fondo, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable a derechos e intereses legítimos). Los **actos de trámite no cualificados** no son recurribles de forma autónoma; la oposición a ellos puede alegarse para su consideración en la resolución que ponga fin al procedimiento (art. 112.1). Contra las **disposiciones administrativas de carácter general** no cabe recurso en vía administrativa (art. 112.3).
 
@@ -412,7 +412,7 @@ Son **recurribles** las **resoluciones** y los **actos de trámite cualificados*
 - **Plazo de resolución** (art. 122.2): **3 meses**. Transcurrido sin resolución, se podrá entender **desestimado** el recurso, salvo en el supuesto de **doble silencio** del artículo 24.1, tercer párrafo (si la alzada se interpuso contra la desestimación por silencio de una solicitud, el silencio de la alzada es **estimatorio**).
 - Contra la resolución de la alzada **no cabe** otro recurso administrativo, salvo el extraordinario de revisión en los casos del artículo 125.1 (art. 122.3).
 
-> **[DATO CLAVE]** Alzada = acto que **NO** agota la vía administrativa → resuelve el **superior jerárquico**. Plazo: **1 mes** (expreso) / **cualquier momento** (presunto). Resolución: **3 meses** → desestimación por silencio (salvo doble silencio). [LPACAP, arts. 121-122]
+> **[DATO CLAVE]** Alzada = acto que **NO** agota la vía administrativa → resuelve el **superior jerárquico**. Plazo: **1 mes** (expreso) / **cualquier momento** (presunto). Resolución: **3 meses** → desestimación por silencio (salvo doble silencio). (arts. 121-122 LPACAP)
 
 ### 7.3 El recurso potestativo de reposición (arts. 123-124)
 
@@ -421,7 +421,7 @@ Son **recurribles** las **resoluciones** y los **actos de trámite cualificados*
 - **Plazo de interposición** (art. 124.1): **1 mes** si el acto es **expreso**; si no es expreso, en **cualquier momento** a partir del día siguiente a aquel en que se produzca el acto presunto.
 - **Plazo de resolución**: **1 mes** (art. 124.2). Transcurrido sin resolución, el silencio es **desestimatorio** (arts. 24.1 y 123.2).
 
-> **[DATO CLAVE]** Reposición = acto que **SÍ** agota la vía administrativa → resuelve el **mismo órgano** → es **potestativo**. Plazo de interposición **1 mes** (expreso); plazo de **resolución 1 mes**. No cabe interponer el contencioso hasta que se resuelva la reposición. [LPACAP, arts. 123-124]
+> **[DATO CLAVE]** Reposición = acto que **SÍ** agota la vía administrativa → resuelve el **mismo órgano** → es **potestativo**. Plazo de interposición **1 mes** (expreso); plazo de **resolución 1 mes**. No cabe interponer el contencioso hasta que se resuelva la reposición. (arts. 123-124 LPACAP)
 
 ### 7.4 El recurso extraordinario de revisión (art. 125)
 
@@ -440,7 +440,7 @@ Son **recurribles** las **resoluciones** y los **actos de trámite cualificados*
 - **Plazo de resolución** (art. 126.3): **3 meses** desde la interposición; transcurrido sin resolución, se entiende **desestimado** y queda expedita la vía contencioso-administrativa.
 - El órgano puede **inadmitir** a trámite el recurso, motivadamente, sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, cuando no se funde en alguna de las causas o se hubieran desestimado en cuanto al fondo otros recursos sustancialmente iguales (art. 126.1).
 
-> **[DATO CLAVE]** Las **cuatro causas** del extraordinario de revisión: **error de hecho** documental, **documentos esenciales sobrevenidos**, **documentos/testimonios falsos** (sentencia firme) y **prevaricación/cohecho/violencia/maquinación** (sentencia firme). Plazos: **4 años** (error de hecho) / **3 meses** (las otras tres). [LPACAP, art. 125]
+> **[DATO CLAVE]** Las **cuatro causas** del extraordinario de revisión: **error de hecho** documental, **documentos esenciales sobrevenidos**, **documentos/testimonios falsos** (sentencia firme) y **prevaricación/cohecho/violencia/maquinación** (sentencia firme). Plazos: **4 años** (error de hecho) / **3 meses** (las otras tres). (art. 125 LPACAP)
 
 ### 7.5 Cuadro comparativo de los tres recursos
 
@@ -453,7 +453,7 @@ Son **recurribles** las **resoluciones** y los **actos de trámite cualificados*
 | **Plazo de resolución** | **3 meses** | **1 mes** | **3 meses** |
 | **Silencio** | Desestimatorio (salvo doble silencio) | Desestimatorio | Desestimatorio |
 
-> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Si una **concejalía** del Ayuntamiento de Madrid dicta una resolución que **no agota** la vía administrativa, el ciudadano interpone **alzada** ante el superior jerárquico (p. ej. el órgano superior de la concejalía o la Alcaldía/Junta de Gobierno según la materia). Si el acto procede de la **Junta de Gobierno** o del **Alcalde** —que **sí agotan** la vía administrativa (art. 114 LPACAP, art. 52.2 LBRL y art. 53 de la Ley 22/2006 de Capitalidad)—, el recurso procedente es la **reposición potestativa**, y después el contencioso. [LPACAP, arts. 114, 121, 123; LBRL, art. 52.2; Ley 22/2006, art. 53]
+> **[EJEMPLO DE APLICACIÓN EN EL AYTO]** Si una **concejalía** del Ayuntamiento de Madrid dicta una resolución que **no agota** la vía administrativa, el ciudadano interpone **alzada** ante el superior jerárquico (p. ej. el órgano superior de la concejalía o la Alcaldía/Junta de Gobierno según la materia). Si el acto procede de la **Junta de Gobierno** o del **Alcalde** —que **sí agotan** la vía administrativa (art. 114 LPACAP, art. 52.2 LBRL y art. 53 de la Ley 22/2006 de Capitalidad)—, el recurso procedente es la **reposición potestativa**, y después el contencioso. (arts. 114, 121 y 123 LPACAP; art. 52.2 LBRL; art. 53 de la Ley 22/2006)
 
 ---
 
@@ -465,7 +465,7 @@ La **revisión de oficio** es la potestad de la Administración de **revisar sus
 
 **A) Revisión de actos nulos de pleno derecho** (art. 106).
 
-> **[CITA NORMATIVA]** Las Administraciones, **en cualquier momento**, por iniciativa propia o a solicitud de interesado, y **previo dictamen favorable** del Consejo de Estado u órgano consultivo equivalente, **declararán de oficio la nulidad** de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 [LPACAP, art. 106.1].
+> **[CITA NORMATIVA]** Las Administraciones, **en cualquier momento**, por iniciativa propia o a solicitud de interesado, y **previo dictamen favorable** del Consejo de Estado u órgano consultivo equivalente, **declararán de oficio la nulidad** de los actos administrativos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del artículo 47.1 (art. 106.1 LPACAP).
 
 - Puede ejercerse **en cualquier momento** (art. 106.1).
 - Exige **dictamen favorable** del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere (art. 106.1).

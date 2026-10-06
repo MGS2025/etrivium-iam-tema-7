@@ -18,7 +18,7 @@
 ## 1. Fuentes y trazabilidad
 
 - [ ] La fuente nuclear es la **Ley 39/2015 (LPACAP)** en su versión consolidada.
-- [ ] Cada afirmación que reproduce el articulado está referenciada con `[LPACAP, art. X]`.
+- [ ] Cada afirmación que reproduce el articulado está referenciada con `(art. X LPACAP)`.
 - [ ] Cada pregunta del banco y de los casos puede reconducirse a un artículo de la Ley 39/2015, de la Ley 40/2015 o de la Constitución.
 
 ## 2. Estructura del contenido
@@ -32,18 +32,18 @@
 
 ## 3. Rigor jurídico (datos sensibles)
 
-- [ ] Plazo supletorio para resolver: **3 meses**; tope legal **6 meses** salvo ley/UE [art. 21].
-- [ ] Cómputo de plazos por **días hábiles** (excluidos sábados, domingos y festivos); inicio el día siguiente; meses/años de fecha a fecha [art. 30].
-- [ ] Subsanación de solicitudes: **10 días (+5)**; efecto: desistimiento [art. 68].
-- [ ] Informes: regla general **facultativos y no vinculantes** [art. 80].
-- [ ] Audiencia **10-15 días** [art. 82]; información pública **≥ 20 días** [art. 83]; prueba **10-30 días** [art. 77].
+- [ ] Plazo supletorio para resolver: **3 meses**; tope legal **6 meses** salvo ley/UE (art. 21).
+- [ ] Cómputo de plazos por **días hábiles** (excluidos sábados, domingos y festivos); inicio el día siguiente; meses/años de fecha a fecha (art. 30).
+- [ ] Subsanación de solicitudes: **10 días (+5)**; efecto: desistimiento (art. 68).
+- [ ] Informes: regla general **facultativos y no vinculantes** (art. 80).
+- [ ] Audiencia **10-15 días** (art. 82); información pública **≥ 20 días** (art. 83); prueba **10-30 días** (art. 77).
 - [ ] Silencio a solicitud: regla **positivo**, con las cinco excepciones del artículo 24.1; **doble silencio** en alzada → estimatorio.
-- [ ] Silencio de oficio: favorable **negativo**; desfavorable/sancionador **caducidad** [art. 25].
+- [ ] Silencio de oficio: favorable **negativo**; desfavorable/sancionador **caducidad** (art. 25).
 - [ ] Nulidad de pleno derecho: supuestos tasados del **artículo 47** (incompetencia manifiesta por materia/territorio, contenido imposible, prescindir total del procedimiento…).
-- [ ] Anulabilidad: cualquier infracción del ordenamiento, incluida la **desviación de poder** [art. 48]; defecto de forma solo anula si impide el fin o causa indefensión.
-- [ ] Recurso de **alzada**: actos que no agotan la vía, superior jerárquico, **obligatorio**, interposición 1 mes (expreso), resolución **3 meses** [arts. 121-122].
-- [ ] Recurso de **reposición**: actos que agotan la vía, mismo órgano, **potestativo**, interposición 1 mes (expreso), resolución **1 mes** [arts. 123-124].
-- [ ] Recurso **extraordinario de revisión**: actos firmes, **cuatro causas tasadas**, plazo **4 años** (error de hecho) / **3 meses** (resto) [art. 125]; resolución **3 meses** [art. 126.3].
+- [ ] Anulabilidad: cualquier infracción del ordenamiento, incluida la **desviación de poder** (art. 48); defecto de forma solo anula si impide el fin o causa indefensión.
+- [ ] Recurso de **alzada**: actos que no agotan la vía, superior jerárquico, **obligatorio**, interposición 1 mes (expreso), resolución **3 meses** (arts. 121-122).
+- [ ] Recurso de **reposición**: actos que agotan la vía, mismo órgano, **potestativo**, interposición 1 mes (expreso), resolución **1 mes** (arts. 123-124).
+- [ ] Recurso **extraordinario de revisión**: actos firmes, **cuatro causas tasadas**, plazo **4 años** (error de hecho) / **3 meses** (resto) (art. 125); resolución **3 meses** (art. 126.3).
 - [ ] Revisión de oficio de actos nulos: **artículo 106** (en cualquier momento, dictamen favorable del órgano consultivo); declaración de lesividad de anulables: **artículo 107** (4 años desde que se dictó el acto + contencioso).
 
 ## 4. Diagramas SVG

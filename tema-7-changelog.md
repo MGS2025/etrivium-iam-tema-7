@@ -4,6 +4,18 @@
 
 ---
 
+## v1.4 — 2026-10-06 — Respuestas de la revisión jurídica
+
+**Motivo**: respuestas a las dudas planteadas a la revisión jurídica (06-10-2026).
+
+### Cambios
+
+- §6.1: «contenido determinado y adecuado a sus fines» (se quita «y posible», que no figura en el art. 34.2 LPACAP).
+- Diagrama D1: los dos grupos de títulos se colocan bajo la Ley 39/2015, de la que forman parte; la Ley 40/2015 queda aparte con su nota «solo se cita como apoyo».
+- **Citas entre corchetes al final del párrafo** (`[CE, art. 14]`) pasan a paréntesis con la ley detrás (`(art. 14 CE)`), el formato de las demás citas de inciso, por decisión de la revisión jurídica (06-10-2026). Se actualiza también la explicación de la convención de citas en Fuentes. Las claves bibliográficas de la tabla de fuentes no cambian.
+
+---
+
 ## v1.3 — 2026-10-06 — Revisión de diagramas
 
 **Motivo**: barrido de los diagramas de los 40 temas tras la revisión jurídica y de normas.

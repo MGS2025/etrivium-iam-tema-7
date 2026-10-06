@@ -44,28 +44,29 @@
   <rect x="250" y="14" width="220" height="40" rx="8" fill="#7a1f1f"/>
   <text x="360" y="33" class="h">Ley 30/1992 (derogada)</text>
   <text x="360" y="48" class="h" style="font-weight:400;font-size:10px">1 de octubre de 2015: dos nuevas leyes</text>
-  <path d="M360 54 V66 M190 66 H530 M190 66 V80 M530 66 V80" stroke="#999" stroke-width="1.5" fill="none"/>
-  <rect x="40" y="80" width="300" height="64" rx="8" fill="#003d75"/>
-  <text x="190" y="106" class="h">Ley 39/2015 · LPACAP</text>
-  <text x="190" y="126" class="h" style="font-weight:400;font-size:11px">Procedimiento (relación con el ciudadano)</text>
-  <rect x="380" y="80" width="300" height="64" rx="8" fill="#0055a0"/>
-  <text x="530" y="106" class="h">Ley 40/2015 · LRJSP</text>
-  <text x="530" y="126" class="h" style="font-weight:400;font-size:11px">Régimen jurídico (organización interna)</text>
-  <text x="190" y="166" class="b">Estructura de la Ley 39/2015 por títulos</text>
-  <text x="530" y="166" class="s">En el Tema 7 solo se cita como apoyo</text>
-  <path d="M190 171 V178 M130 178 H590 M130 178 V186 M590 178 V186" stroke="#0055a0" stroke-width="1.5" fill="none"/>
-  <rect x="30" y="186" width="200" height="70" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
-  <text x="130" y="210" class="t" style="font-weight:700">Tít. Prelim. + I + II</text>
-  <text x="130" y="230" class="s">Objeto · interesados ·</text>
-  <text x="130" y="246" class="s">derechos · registros · plazos</text>
-  <rect x="490" y="186" width="200" height="70" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
-  <text x="590" y="210" class="t" style="font-weight:700">Tít. III + IV + V</text>
-  <text x="590" y="230" class="s">Acto · procedimiento ·</text>
-  <text x="590" y="246" class="s">recursos · revisión</text>
-  <rect x="30" y="276" width="200" height="34" rx="6" fill="#fff5e6" stroke="#e89822"/>
-  <text x="130" y="298" class="s" style="font-weight:700;fill:#b5740f">Se estudia en el TEMA 6</text>
-  <rect x="490" y="276" width="200" height="34" rx="6" fill="#fff5e6" stroke="#e89822"/>
-  <text x="590" y="298" class="s" style="font-weight:700;fill:#b5740f">Se estudia en el TEMA 7</text>
+  <path d="M360 54 V66 M245 66 H585 M245 66 V80 M585 66 V80" stroke="#999" stroke-width="1.5" fill="none"/>
+  <rect x="30" y="80" width="430" height="64" rx="8" fill="#003d75"/>
+  <text x="245" y="106" class="h">Ley 39/2015 · LPACAP</text>
+  <text x="245" y="126" class="h" style="font-weight:400;font-size:11px">Procedimiento (relación con el ciudadano)</text>
+  <rect x="480" y="80" width="210" height="64" rx="8" fill="#0055a0"/>
+  <text x="585" y="104" class="h">Ley 40/2015 · LRJSP</text>
+  <text x="585" y="121" class="h" style="font-weight:400;font-size:11px">Régimen jurídico</text>
+  <text x="585" y="135" class="h" style="font-weight:400;font-size:11px">(organización interna)</text>
+  <text x="245" y="166" class="b">Estructura de la Ley 39/2015 por títulos</text>
+  <text x="585" y="166" class="s">En el Tema 7 solo se cita como apoyo</text>
+  <path d="M245 171 V178 M135 178 H355 M135 178 V186 M355 178 V186" stroke="#0055a0" stroke-width="1.5" fill="none"/>
+  <rect x="35" y="186" width="200" height="70" rx="8" fill="#e8f0f8" stroke="#0055a0"/>
+  <text x="135" y="210" class="t" style="font-weight:700">Tít. Prelim. + I + II</text>
+  <text x="135" y="230" class="s">Objeto · interesados ·</text>
+  <text x="135" y="246" class="s">derechos · registros · plazos</text>
+  <rect x="255" y="186" width="200" height="70" rx="8" fill="#e8f5ee" stroke="#2d8659"/>
+  <text x="355" y="210" class="t" style="font-weight:700">Tít. III + IV + V</text>
+  <text x="355" y="230" class="s">Acto · procedimiento ·</text>
+  <text x="355" y="246" class="s">recursos · revisión</text>
+  <rect x="35" y="276" width="200" height="34" rx="6" fill="#fff5e6" stroke="#e89822"/>
+  <text x="135" y="298" class="s" style="font-weight:700;fill:#b5740f">Se estudia en el TEMA 6</text>
+  <rect x="255" y="276" width="200" height="34" rx="6" fill="#fff5e6" stroke="#e89822"/>
+  <text x="355" y="298" class="s" style="font-weight:700;fill:#b5740f">Se estudia en el TEMA 7</text>
   <rect x="205" y="330" width="310" height="40" rx="8" fill="#eef2f7" stroke="#0055a0"/>
   <text x="360" y="349" class="s" style="font-weight:700">Competencia estatal exclusiva</text>
   <text x="360" y="364" class="s">art. 149.1.18.ª CE → aplica a todas las AAPP</text>
