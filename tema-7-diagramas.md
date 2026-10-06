@@ -228,7 +228,7 @@
   <rect x="554" y="60" width="150" height="80" rx="10" fill="#2d8659"/>
   <text x="629" y="92" class="h">4. TERMINACIÓN</text>
   <text x="629" y="116" class="h" style="font-weight:400;font-size:11px">arts. 84-95</text>
-  <rect x="198" y="168" width="328" height="40" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <rect x="178" y="168" width="368" height="40" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="362" y="186" class="s" style="font-weight:700;fill:#b5740f">La ORDENACIÓN no es una fase con trámites cerrados:</text>
   <text x="362" y="202" class="s">impulsa de oficio el expediente mientras se instruye (art. 71)</text>
   <defs><marker id="a5" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#0055a0"/></marker></defs>
@@ -314,7 +314,7 @@
   <text x="580" y="184" class="t" style="font-weight:700;fill:#b5740f">Terminación</text>
   <text x="580" y="202" class="t" style="font-weight:700;fill:#b5740f">convencional</text>
   <text x="580" y="224" class="s">pactos y convenios · art. 86</text>
-  <rect x="160" y="252" width="400" height="34" rx="8" fill="#eef2f7" stroke="#0055a0"/>
+  <rect x="140" y="252" width="440" height="34" rx="8" fill="#eef2f7" stroke="#0055a0"/>
   <text x="360" y="274" class="s" style="font-weight:700">La Administración SIEMPRE debe resolver de forma expresa (art. 21.1)</text>
 </svg>
 ```
@@ -327,7 +327,7 @@
 **Propósito**: Contrastar el régimen del silencio según quién inició el procedimiento.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="El silencio administrativo depende del inicio. A solicitud del interesado (artículo 24) la regla general es el silencio positivo o estimatorio, salvo excepciones legales en que es negativo. De oficio (artículo 25): en procedimientos favorables el silencio es negativo y en procedimientos desfavorables o sancionadores se produce la caducidad">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 336" role="img" aria-label="El silencio administrativo depende del inicio. A solicitud del interesado (artículo 24) la regla general es el silencio positivo o estimatorio, salvo excepciones legales en que es negativo. De oficio (artículo 25): en procedimientos favorables el silencio es negativo y en procedimientos desfavorables o sancionadores se produce la caducidad">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -355,9 +355,9 @@
   <text x="530" y="214" class="t" style="font-weight:700;fill:#a82a2a">Desfavorables → CADUCIDAD</text>
   <text x="530" y="234" class="s">sancionadores y de gravamen:</text>
   <text x="530" y="251" class="s">se archivan las actuaciones</text>
-  <rect x="120" y="278" width="480" height="44" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <rect x="120" y="278" width="480" height="50" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="360" y="300" class="s" style="font-weight:700;fill:#b5740f">DOBLE SILENCIO: alzada contra desestimación presunta</text>
-  <text x="360" y="317" class="s">que tampoco se resuelve → silencio ESTIMATORIO (art. 24.1)</text>
+  <text x="360" y="318" class="s">que tampoco se resuelve → silencio ESTIMATORIO (art. 24.1)</text>
 </svg>
 ```
 
@@ -414,7 +414,7 @@
 **Propósito**: Árbol de decisión para elegir el recurso según el acto.
 
 ```svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="Para elegir el recurso: si el acto no agota la vía administrativa, procede el recurso de alzada ante el superior jerárquico, obligatorio. Si el acto agota la vía, procede el recurso potestativo de reposición ante el mismo órgano, o directamente el contencioso-administrativo. Si el acto es firme y concurre causa tasada, procede el recurso extraordinario de revisión">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 336" role="img" aria-label="Para elegir el recurso: si el acto no agota la vía administrativa, procede el recurso de alzada ante el superior jerárquico, obligatorio. Si el acto agota la vía, procede el recurso potestativo de reposición ante el mismo órgano, o directamente el contencioso-administrativo. Si el acto es firme y concurre causa tasada, procede el recurso extraordinario de revisión">
   <style>
     .h{font:700 13px system-ui,sans-serif;fill:#fff;text-anchor:middle}
     .t{font:12px system-ui,sans-serif;fill:#1a1a1a;text-anchor:middle}
@@ -441,9 +441,9 @@
   <path d="M555 188 L555 214" stroke="#0055a0" stroke-width="2" marker-end="url(#a10)"/>
   <rect x="130" y="218" width="460" height="40" rx="8" fill="#003d75"/>
   <text x="360" y="243" class="h">Recurso CONTENCIOSO-ADMINISTRATIVO (judicial)</text>
-  <rect x="160" y="276" width="400" height="44" rx="8" fill="#fff5e6" stroke="#e89822"/>
+  <rect x="160" y="276" width="400" height="50" rx="8" fill="#fff5e6" stroke="#e89822"/>
   <text x="360" y="298" class="s" style="font-weight:700;fill:#b5740f">Acto FIRME + causa tasada → recurso EXTRAORDINARIO</text>
-  <text x="360" y="315" class="s">de revisión ante el mismo órgano (art. 125)</text>
+  <text x="360" y="316" class="s">de revisión ante el mismo órgano (art. 125)</text>
   <defs><marker id="a10" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#0055a0"/></marker></defs>
 </svg>
 ```
@@ -548,7 +548,7 @@
   <rect x="370" y="258" width="290" height="56" rx="8" fill="#003d75"/>
   <text x="515" y="280" class="h">5 · VÍA JUDICIAL</text>
   <text x="515" y="300" class="h" style="font-weight:400;font-size:11px">contencioso-administrativa (art. 106 CE)</text>
-  <path d="M360 242 L360 258" stroke="#0055a0" stroke-width="2" marker-end="url(#a12)"/>
+  <path d="M410 242 L410 258" stroke="#0055a0" stroke-width="2" marker-end="url(#a12)"/>
   <text x="360" y="334" class="s" style="font-weight:700;fill:#0055a0">Agotada la vía administrativa → control de los tribunales</text>
   <text x="360" y="350" class="s">El procedimiento es garantía del ciudadano y cauce de la Administración (art. 105 CE)</text>
   <defs><marker id="a12" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#0055a0"/></marker></defs>
